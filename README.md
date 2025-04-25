@@ -1,1 +1,5 @@
-# python5
+number=([20,52],[52,568],[74,53])
+print(number[1][1])
+print(number[1][0])
+print(number[0][0])
+print(number[0][1])
